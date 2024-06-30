@@ -62,4 +62,6 @@ Run the command:
 ```bash
  python ./tools/test.py configs/rpn/rpn_r50_fpn_1x_coco.py path/to/your/ckpt --show-dir faster_rcnn_output2/rpn_proposal
 ```
-
+## Pretrained model
+Checkpoints are available at 链接: https://pan.baidu.com/s/1CSwTuAoM4eOzkBDr2FY2NA 提取码: tbjb 
+--来自百度网盘超级会员v6的分享.
